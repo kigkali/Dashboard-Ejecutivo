@@ -17,7 +17,7 @@ Proyecto desarrollado en **Python** utilizando **Dash**, **Plotly** y **Bootstra
 - [Bootstrap Components for Dash](https://dash-bootstrap-components.opensource.faculty.ai/)
 - [Pandas](https://pandas.pydata.org/)
 
-Capturas de pantalla 🖼️
+## Capturas de pantalla 🖼️
 
 <img width="1327" height="632" alt="image" src="https://github.com/user-attachments/assets/ecc51382-ccbd-42fe-9a1e-68539759ce58" />
 
@@ -30,3 +30,4 @@ git clone https://github.com/kigkali/Dashboard-Ejecutivo.git
 cd Dashboard-Ejecutivo
 pip install -r requirements.txt
 python app.py
+
