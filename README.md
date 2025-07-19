@@ -25,13 +25,6 @@ cd Dashboard-Ejecutivo
 pip install -r requirements.txt
 python app.py
 
-
-Capturas de pantalla 🖼️
-
-<img width="1327" height="632" alt="image" src="https://github.com/user-attachments/assets/ecc51382-ccbd-42fe-9a1e-68539759ce58" />
-
-<img width="1314" height="602" alt="image" src="https://github.com/user-attachments/assets/99cf9448-05d1-4e59-ab6b-2ff90368c5ea" />
-
 ## Autor ✒️
 Edwin Leonardo
 
